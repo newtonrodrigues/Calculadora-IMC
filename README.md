@@ -1,2 +1,0 @@
-﻿# Calculadora-IMC
-Newton
